@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>209427885712-ttgtu6hve9f45q3bptcatah53tfkje6n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.209427885712-ttgtu6hve9f45q3bptcatah53tfkje6n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWy8i9qvch65yDzf11ZeQEq1DYrwwZTrk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>209427885712</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>company-name.Messenger</string>
+	<key>PROJECT_ID</key>
+	<string>finallessonfirebase</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finallessonfirebase.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:209427885712:ios:ef1d55b0b3f2e9c1217215</string>
+	<key>DATABASE_URL</key>
+	<string>https://finallessonfirebase-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
